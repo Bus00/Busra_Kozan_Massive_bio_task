@@ -1,0 +1,14 @@
+
+name: bioinfo_pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - snakemake
+  - nanoplot        # Uzun okuma QC aracı (PDF Madde 1)
+  - r-base          # İstatistikler için R dili

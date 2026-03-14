@@ -1,0 +1,9 @@
+=== Biyoinformatik Kalite Kontrol (QC) Özeti ===
+Toplam Okuma Sayısı: 81,011
+Toplam Baz Sayısı: 84,108,485
+N50 Değeri: 1761 bp
+Ortalama Kalite (Phred): 17.90
+Genel Baz Doğruluğu: %98.38
+Q20 Yüzdesi: %41.87 (Hata payı 1/100)
+Q30 Yüzdesi: %26.28 (Hata payı 1/1000)
+================================================

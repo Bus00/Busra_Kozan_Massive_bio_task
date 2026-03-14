@@ -1,0 +1,13 @@
+
+# Python sanal ortamı
+venv/
+__pycache__/
+
+# Snakemake gizli dosyaları
+.snakemake/
+
+# Büyük veri dosyaları (FASTQ'lar GitHub'a yüklenmez, çok büyüktür)
+data/
+
+# Mac bilgisayarların otomatik oluşturduğu gereksiz dosya
+.DS_Store
