@@ -1,0 +1,4 @@
+
+*.html linguist-vendored
+.snakemake/** linguist-vendored
+results/** linguist-vendored
