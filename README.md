@@ -1,3 +1,5 @@
+*python ve r dosyaları scripts alt klasörünün içindedir.
+
 -mail taslağı-
 
 Konu: Barcode77 Veri Seti - İlk Aşama Analiz ve Kalite Kontrol Raporu
